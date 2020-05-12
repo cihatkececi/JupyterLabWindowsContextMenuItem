@@ -1,4 +1,4 @@
-# JupyterLabWindowsContextMenuItem
+# Jupyter Lab Windows Context Menu Item
 
 Registry files for Jupyter Lab and Jupyter Notebook for adding them to the context menu in Windows. Jupyter notebook is opened in the current directory.
 
