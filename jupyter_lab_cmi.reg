@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\directory\Background\shell\JupyterLab]
+@="Open in Jupyter Lab"
+
+[HKEY_CURRENT_USER\Software\Classes\directory\Background\shell\JupyterLab\command]
+@="cmd /K \"jupyter lab\""

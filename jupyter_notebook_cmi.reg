@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\directory\Background\shell\JupyterNotebook]
+@="Open in Jupyter Notebook"
+
+[HKEY_CURRENT_USER\Software\Classes\directory\Background\shell\JupyterNotebook\command]
+@="cmd /K \"jupyter notebook\""
